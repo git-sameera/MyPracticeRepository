@@ -6,6 +6,7 @@ public class TestFileGit {
 		
 		System.out.println("Sample Java Class file for Git repo training");
 		System.out.println("Testing again");
+		System.out.println("Updating file from Git UI");
 
 	}
 
